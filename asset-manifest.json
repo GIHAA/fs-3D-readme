@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/3D-is-cool/static/css/main.87f3cffc.css",
+    "main.css": "/3D-is-cool/static/css/main.85acfc83.css",
     "main.js": "/3D-is-cool/static/js/main.56f3d7e1.js",
     "static/js/232.ef78cf97.chunk.js": "/3D-is-cool/static/js/232.ef78cf97.chunk.js",
     "index.html": "/3D-is-cool/index.html",
-    "main.87f3cffc.css.map": "/3D-is-cool/static/css/main.87f3cffc.css.map",
+    "main.85acfc83.css.map": "/3D-is-cool/static/css/main.85acfc83.css.map",
     "main.56f3d7e1.js.map": "/3D-is-cool/static/js/main.56f3d7e1.js.map",
     "232.ef78cf97.chunk.js.map": "/3D-is-cool/static/js/232.ef78cf97.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.87f3cffc.css",
+    "static/css/main.85acfc83.css",
     "static/js/main.56f3d7e1.js"
   ]
 }
