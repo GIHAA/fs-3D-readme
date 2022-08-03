@@ -1,8 +1,8 @@
 {
-  "name": "3d-is-cool",
+  "name": "fs-3D-readme",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://GIHAA.github.io/3D-is-cool/",
+  "homepage": "https://GIHAA.github.io/fs-3D-readme/",
   "dependencies": {
     "-": "^0.0.1",
     "@splinetool/react-spline": "^2.2.1",
