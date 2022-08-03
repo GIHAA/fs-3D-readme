@@ -1,3 +1,7 @@
+### Might take a while to load 3d objects so be patient :) <a href="https://gihaa.dev/fs-3D-readme/">Live site</a>
+<br>
+<br>
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
