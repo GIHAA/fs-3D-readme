@@ -1,6 +1,7 @@
 ### Might take a while to load 3d objects so be patient :) <a href="https://gihaa.dev/fs-3D-readme/">Live site</a>
 <br>
 <br>
+<img src="https://user-images.githubusercontent.com/86099252/182679242-8042dbae-90f9-45e5-bb5a-b3454b18766a.png" height="600">
 
 # Getting Started with Create React App
 
